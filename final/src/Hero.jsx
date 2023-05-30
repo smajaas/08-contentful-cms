@@ -11,7 +11,7 @@ const Hero = () => {
             YOLO pok pok actually, poke narwhal raclette fashion axe. Austin
             microdosing sus, thundercats bitters blog kickstarter letterpress
             kinfolk umami pabst direct trade. Sartorial pop-up grailed twee,
-            freegan waistcoat synth. cronut la croix selvage green juice jawn
+            freegan waistcoat synth. Cronut la croix selvage green juice jawn
             gorpcore
           </p>
         </div>
